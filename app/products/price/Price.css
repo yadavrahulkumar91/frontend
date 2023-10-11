@@ -1,0 +1,17 @@
+/* Price.css */
+
+.price {
+    text-align: center;
+}
+
+.final-price {
+    font-size: 1.2rem;
+    color: #FF5722;
+    /* Customize the color */
+}
+
+.actual-price {
+    font-size: 1rem;
+    color: #999;
+    /* Customize the color */
+}
